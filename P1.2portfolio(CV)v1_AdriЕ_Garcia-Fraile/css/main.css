@@ -1,17 +1,19 @@
 div{
   margin-top: 1%;
+  background-color: white;
 }
 h3{
   margin-left: 10%;
+  color: black;
+}
+.contenido{
+  color:grey;
 }
 img{
   width: 200px;
   height: 200px;
   margin-left: 15%;
   border: 1px solid black;
-}
-.container{
-  text-align: center;
 }
 
 .left{
